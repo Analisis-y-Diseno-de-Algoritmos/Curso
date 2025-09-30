@@ -9,3 +9,5 @@
 [Practica 5 Trnasformaciones en 2 y 3 dimensiones](https://classroom.github.com/a/mbTH6tDH)
 
 [Practica Extra 1 Animaciones](https://classroom.github.com/a/gtz-2PRY)
+
+[Practica 6 Turtle](https://classroom.github.com/a/PFFJXVS2)
