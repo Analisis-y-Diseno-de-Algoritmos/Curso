@@ -8,5 +8,5 @@ def poligono(n, lado):
         t.left(360.0/n)
 
 screen = preparar_ventana(titulo="Ejemplo: Polígono")
-poligono(9, 60)   # Hexágono
+poligono(20, 60)   # Hexágono
 finalizar()

@@ -7,7 +7,7 @@ screen.bgcolor("medium slate blue")
 
 p = t.Turtle()
 p.shape("turtle")   
-p.speed(1)         # 0 es la más rápida
+p.speed(0.9)         # 0 es la más rápida
 p.color("black")
 p.pensize(2)
 
