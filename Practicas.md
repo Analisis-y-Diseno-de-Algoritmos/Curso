@@ -11,3 +11,5 @@
 [Practica Extra 1 Animaciones](https://classroom.github.com/a/gtz-2PRY)
 
 [Practica 6 Turtle](https://classroom.github.com/a/PFFJXVS2)
+
+[Practica 7 Poblaciones](https://classroom.github.com/a/gEorBCA8)
