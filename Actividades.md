@@ -7,3 +7,5 @@
 [Actividad 4 Numpy-Matplotlib](https://classroom.github.com/a/uQm49osR)
 
 [Actividad 5 Turtle](https://classroom.github.com/a/AAYbWzq8)
+
+[Actividad 6 Infecciones](https://classroom.github.com/a/IOI3Ht2w)
