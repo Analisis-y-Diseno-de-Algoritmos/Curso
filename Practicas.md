@@ -13,3 +13,5 @@
 [Practica 6 Turtle](https://classroom.github.com/a/PFFJXVS2)
 
 [Practica 7 Poblaciones](https://classroom.github.com/a/gEorBCA8)
+
+[Practica 8 Presa Depredador](https://classroom.github.com/a/l1AniPas)
