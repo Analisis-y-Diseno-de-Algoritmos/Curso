@@ -6,7 +6,7 @@
 
 [Practica 4 Programación Iterativa - Recursiva](https://classroom.github.com/a/9qFkfENL)
 
-[Practica 5 Trnasformaciones en 2 y 3 dimensiones](https://classroom.github.com/a/mbTH6tDH)
+[Practica 5 Transformaciones en 2 y 3 dimensiones](https://classroom.github.com/a/mbTH6tDH)
 
 [Practica Extra 1 Animaciones](https://classroom.github.com/a/gtz-2PRY)
 
@@ -15,3 +15,5 @@
 [Practica 7 Poblaciones](https://classroom.github.com/a/gEorBCA8)
 
 [Practica 8 Presa Depredador](https://classroom.github.com/a/l1AniPas)
+
+[Practica 9 Control de Plagas](https://classroom.github.com/a/amlG2eHR)
