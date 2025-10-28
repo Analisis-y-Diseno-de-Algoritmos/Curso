@@ -17,3 +17,5 @@
 [Practica 8 Presa Depredador](https://classroom.github.com/a/l1AniPas)
 
 [Practica 9 Control de Plagas](https://classroom.github.com/a/amlG2eHR)
+
+[Practica 10 Automatas 1D](https://classroom.github.com/a/3FfyoShW)
