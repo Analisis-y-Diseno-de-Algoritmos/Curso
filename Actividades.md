@@ -12,4 +12,6 @@
 
 [Actividad 7 Tráfico](https://classroom.github.com/a/Ury7Snb_)
 
-[Actividad 8 Juego de la Vida](https://classroom.github.com/a/XNPQawaW)
+[Actividad 8 Juego de la Vida](https://classroom.github.com/a/uZR7nr8x)
+
+[Actividad 9 Complejidad](https://classroom.github.com/a/ZBsrz9T7)
