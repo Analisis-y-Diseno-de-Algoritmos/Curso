@@ -21,3 +21,5 @@
 [Practica 10 Automatas 1D](https://classroom.github.com/a/3FfyoShW)
 
 [Practica 11 Bosque](https://classroom.github.com/a/AqNu7thM)
+
+[Practca 12 MergeSort](https://classroom.github.com/a/thjCqHJM)
